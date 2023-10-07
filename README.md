@@ -1,12 +1,12 @@
-#Arman Martinez
+Arman Martinez
 
-##Skills
+Skills
 -MS SQL, Tableu, Excel
 
-##Work History
+Work History
 - Offshore Energy Services, LLC.
 - Diamondback Trucking, LLC.
 - Tomahawk Resources, LLC.
 - Timco Servicees, LLC.
 
-##Projects
+Projects
